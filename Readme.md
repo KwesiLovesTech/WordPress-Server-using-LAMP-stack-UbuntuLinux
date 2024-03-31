@@ -1,2 +1,5 @@
-This guide is to help you setup a wordpress server on ubuntu. 
-About more than 43% of all websites are using WordPress as their content management system.
+# Setting Up a WordPress Server on Ubuntu #
+
+I would be configuring a WordPress server on Ubuntu, a popular Linux distribution. 
+
+WordPress is a versatile content management system used by over 43% of websites worldwide.
