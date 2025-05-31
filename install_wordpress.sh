@@ -37,7 +37,7 @@ sudo a2dissite 000-default
 sudo service apache2 reload
 
 # Create WordPress database and user
-DB_PASS="admin123"
+DB_PASS="choose-your-own-password"
 
 sudo mysql -u root <<MYSQL_SCRIPT
 CREATE DATABASE wordpress;
