@@ -25,4 +25,5 @@ WordPress powers over **40% of all websites globally**, making it the most widel
 
 > 💡 This project serves as a foundational hands-on exercise in Linux web server administration and application security.
 
+Installing and configuring WordPress on an Ubuntu server can be found [here](https://ubuntu.com/tutorials/install-and-configure-wordpress#1-overview)
 
