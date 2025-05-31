@@ -3,7 +3,7 @@
 This project demonstrates how to install and configure a **WordPress server** locally using the **LAMP stack (Linux, Apache, MySQL, PHP)** on Ubuntu.
 
 ---
-
+### Note
 WordPress powers over **40% of all websites globally**, making it the most widely used content management system (CMS) today. From personal blogs to enterprise sites, WordPress offers:
 - Flexibility through themes and plugins
 - A massive developer ecosystem
